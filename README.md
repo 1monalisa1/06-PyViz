@@ -24,4 +24,4 @@
 
 ![Mona-Full-House](https://github.com/1monalisa1/06-PyViz/blob/4d41a02d9ac9aa663467a76e142b4fc532254d2b/Data/04-Mona-Full-House.png)
 ### Additional Resource for Enticing Your Pet to Move:
-https://www.inaturalist.org/projects/squirrels-of-the-sf-bay-area?tab=stats
+* https://www.inaturalist.org/projects/squirrels-of-the-sf-bay-area?tab=stats
