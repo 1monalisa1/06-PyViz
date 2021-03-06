@@ -5,13 +5,13 @@
 
 ## Pythonic Monopoly
 
-* When completing the dashboard, I had thought the goal had been to recreate the Dashboard as closely as possible to the one on the original ReadMe file.  I have also made a few adjustments to labels and formatting to fit the space a bit more closely.  
+* *When completing the dashboard, I had thought the goal had been to recreate the Dashboard as closely as possible to the one on the original ReadMe file.  I have elected to make the following adjustments regarding formatting:*  
 * Rebuilt the following 3 charts using hvplot (previously Pandas plot function):
-* Housing Units in San Francisco from 2010 to 2016
-* Average Rent in San Francisco
-* Average Sale Price per Square Foot in San Francisco
+  * Housing Units in San Francisco from 2010 to 2016
+  * Average Rent in San Francisco
+  * Average Sale Price per Square Foot in San Francisco
 * Capitalized the "N" in neighbor to improve the aesthetics of the following chart:
-* Average Prices by Neighborhood
+  * Average Prices by Neighborhood
 * The .mov file was too large so installed the ffmpeg package using Homebrew to convert it to a gif
 * Made adjustments within each chart's code to better fit the dashboard's space.
   
