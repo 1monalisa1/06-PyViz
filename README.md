@@ -19,5 +19,9 @@
 ### San Francisco Real Estate Dashboard
 ![PyViz-Screenshot-GIF](https://github.com/1monalisa1/06-PyViz/blob/9690c69cc22e3d0d5bc3ef6c6eaa4d7228637292/Data/FullMovie.gif)
 
-##### Dashboard as a .mov file for slower, clearer playback (requires download):
+#### Dashboard as a .mov file for slower, clearer playback (requires download):
 ![PyViz-Screenshot](https://github.com/1monalisa1/06-PyViz/blob/993e9d16d282eed8615f69211aeafae20fddb6c8/Lisa-06-PyViz.mov)
+
+![Mona-Full-House](https://github.com/1monalisa1/06-PyViz/blob/4d41a02d9ac9aa663467a76e142b4fc532254d2b/Data/04-Mona-Full-House.png)
+### Additional Resource for Enticing Your Pet to Move:
+https://www.inaturalist.org/projects/squirrels-of-the-sf-bay-area?tab=stats
