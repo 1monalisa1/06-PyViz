@@ -14,7 +14,7 @@
 * Capitalized the *N* in neighborhood to improve the aesthetics of the following chart:
   * "Average Prices by Neighborhood"
 * The .mov file was too large to display on the project's ReadMe, so I installed the ffmpeg package using Homebrew to convert it to a gif.  
- * Please see the gif/movie demonstration below:
+  * Please see the gif/movie demonstration below:
 
 ### San Francisco Real Estate Dashboard
 ![PyViz-Screenshot-GIF](https://github.com/1monalisa1/06-PyViz/blob/9690c69cc22e3d0d5bc3ef6c6eaa4d7228637292/Data/FullMovie.gif)
