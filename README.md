@@ -3,7 +3,10 @@
 ##### Contributor:  Lisa Esberger
 ##### Published:  March 5, 2021
 
-## PyViz Dashboard
+## Pythonic Monopoly
+* *Funding*
+	* Following rejection, the founding team met Jane Walerud, one of Sweden’s most successful angel investors, at a networking event (productmint.com).
+		* Initial Funding:
 * When completing the dashboard, I had thought the goal had been to recreate the Dashboard as closely as possible to the one on the original ReadMe file.  I have also made a few adjustments to labels and formatting to fit the space a bit more closely.  
   * Rebuilt the following 3 charts using hvplot (previously Pandas plot function):
         * Housing Units in San Francisco from 2010 to 2016
