@@ -5,7 +5,7 @@
 
 ## Pythonic Monopoly
 
-* *When completing the dashboard, I had thought the goal had been to recreate the Dashboard as closely as possible to the one on the original ReadMe file.  I have elected to make the following adjustments regarding formatting:*  
+* *When completing the dashboard, I had thought the goal had been to recreate the Dashboard as closely as possible to the one on the original ReadMe file, and later realized that we were supposed to take a more creative approach.  That being said, I have elected to make the following adjustments regarding formatting:*  
 * Rebuilt the following 3 charts using HvPlot (previously Pandas plot function):
   * "Housing Units in San Francisco from 2010 to 2016"
   * "Average Rent in San Francisco"
